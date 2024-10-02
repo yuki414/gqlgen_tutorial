@@ -13,8 +13,7 @@ go run github.com/99designs/gqlgen init
 ```
 
 
-### About files
-
+## About files
 
 #### Automatically generated
 - `graph/generated.go`
